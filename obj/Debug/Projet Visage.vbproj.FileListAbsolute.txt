@@ -1,0 +1,60 @@
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\bin\Debug\Projet Visage.exe.config
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\bin\Debug\Projet Visage.exe
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\bin\Debug\Projet Visage.pdb
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\bin\Debug\Projet Visage.xml
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\obj\Debug\Projet Visage.vbprojAssemblyReference.cache
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\obj\Debug\Projet_Visage.DetectionVisage.resources
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\obj\Debug\Projet_Visage.Resources.resources
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\obj\Debug\Projet Visage.vbproj.GenerateResource.cache
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\obj\Debug\Projet Visage.vbproj.CoreCompileInputs.cache
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\obj\Debug\Projet Visage.exe
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\obj\Debug\Projet Visage.xml
+D:\IUT\S2\IHM\Projet Visage\Projet_Visage\Projet Visage\obj\Debug\Projet Visage.pdb
+C:\Users\santo\OneDrive\Bureau\Projet Visage\bin\Debug\Projet Visage.exe.config
+C:\Users\santo\OneDrive\Bureau\Projet Visage\bin\Debug\Projet Visage.exe
+C:\Users\santo\OneDrive\Bureau\Projet Visage\bin\Debug\Projet Visage.pdb
+C:\Users\santo\OneDrive\Bureau\Projet Visage\bin\Debug\Projet Visage.xml
+C:\Users\santo\OneDrive\Bureau\Projet Visage\obj\Debug\Projet Visage.vbprojAssemblyReference.cache
+C:\Users\santo\OneDrive\Bureau\Projet Visage\obj\Debug\Projet_Visage.DetectionVisage.resources
+C:\Users\santo\OneDrive\Bureau\Projet Visage\obj\Debug\Projet_Visage.Resources.resources
+C:\Users\santo\OneDrive\Bureau\Projet Visage\obj\Debug\Projet Visage.vbproj.GenerateResource.cache
+C:\Users\santo\OneDrive\Bureau\Projet Visage\obj\Debug\Projet Visage.vbproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Bureau\Projet Visage\obj\Debug\Projet Visage.exe
+C:\Users\santo\OneDrive\Bureau\Projet Visage\obj\Debug\Projet Visage.xml
+C:\Users\santo\OneDrive\Bureau\Projet Visage\obj\Debug\Projet Visage.pdb
+D:\Projet Visage\Projet Visage\bin\Debug\Projet Visage.exe.config
+D:\Projet Visage\Projet Visage\bin\Debug\Projet Visage.exe
+D:\Projet Visage\Projet Visage\bin\Debug\Projet Visage.pdb
+D:\Projet Visage\Projet Visage\bin\Debug\Projet Visage.xml
+D:\Projet Visage\Projet Visage\obj\Debug\Projet Visage.vbprojAssemblyReference.cache
+D:\Projet Visage\Projet Visage\obj\Debug\Projet_Visage.DetectionVisage.resources
+D:\Projet Visage\Projet Visage\obj\Debug\Projet_Visage.Resources.resources
+D:\Projet Visage\Projet Visage\obj\Debug\Projet Visage.vbproj.GenerateResource.cache
+D:\Projet Visage\Projet Visage\obj\Debug\Projet Visage.vbproj.CoreCompileInputs.cache
+D:\Projet Visage\Projet Visage\obj\Debug\Projet Visage.exe
+D:\Projet Visage\Projet Visage\obj\Debug\Projet Visage.xml
+D:\Projet Visage\Projet Visage\obj\Debug\Projet Visage.pdb
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\obj\Debug\Projet Visage.vbprojAssemblyReference.cache
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\obj\Debug\Projet_Visage.DetectionVisage.resources
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\obj\Debug\Projet_Visage.Resources.resources
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\obj\Debug\Projet Visage.vbproj.GenerateResource.cache
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\obj\Debug\Projet Visage.vbproj.CoreCompileInputs.cache
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\obj\Debug\Projet Visage.exe
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\obj\Debug\Projet Visage.xml
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\obj\Debug\Projet Visage.pdb
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\bin\Debug\Projet Visage.exe.config
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\bin\Debug\Projet Visage.exe
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\bin\Debug\Projet Visage.pdb
+D:\IUT\S2\IHM\Projet Visage\Projet Visage\bin\Debug\Projet Visage.xml
+D:\IUT\S2\IHM\Face\Projet Visage\bin\Debug\Projet Visage.exe.config
+D:\IUT\S2\IHM\Face\Projet Visage\bin\Debug\Projet Visage.exe
+D:\IUT\S2\IHM\Face\Projet Visage\bin\Debug\Projet Visage.pdb
+D:\IUT\S2\IHM\Face\Projet Visage\bin\Debug\Projet Visage.xml
+D:\IUT\S2\IHM\Face\Projet Visage\obj\Debug\Projet Visage.vbprojAssemblyReference.cache
+D:\IUT\S2\IHM\Face\Projet Visage\obj\Debug\Projet_Visage.DetectionVisage.resources
+D:\IUT\S2\IHM\Face\Projet Visage\obj\Debug\Projet_Visage.Resources.resources
+D:\IUT\S2\IHM\Face\Projet Visage\obj\Debug\Projet Visage.vbproj.GenerateResource.cache
+D:\IUT\S2\IHM\Face\Projet Visage\obj\Debug\Projet Visage.vbproj.CoreCompileInputs.cache
+D:\IUT\S2\IHM\Face\Projet Visage\obj\Debug\Projet Visage.exe
+D:\IUT\S2\IHM\Face\Projet Visage\obj\Debug\Projet Visage.xml
+D:\IUT\S2\IHM\Face\Projet Visage\obj\Debug\Projet Visage.pdb
